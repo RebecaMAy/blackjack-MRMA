@@ -17,12 +17,14 @@ public class Deck : MonoBehaviour
        
     private void Awake()
     {    
+        //iniciar apuesta
         InitCardValues();        
     }
 
     private void Start()
     {
         ShuffleCards();
+        //no puede repartir antes de apostar
         StartGame();        
     }
 
