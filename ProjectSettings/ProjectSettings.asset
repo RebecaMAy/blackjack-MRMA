@@ -580,10 +580,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: cce1bc91-eb0c-4e7f-a8b2-54f7dd4051aa
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: blackjack
+  organizationId: rebemendrb
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
